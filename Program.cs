@@ -32,14 +32,8 @@ namespace ExFixacaoAula18
             System.Console.WriteLine();
             System.Console.WriteLine($"CONTA: {conta}");
 
-        }
-    }
-}
+            System.Console.WriteLine("Testando o git para realização de versionamentos");
 
-namespace Testando{
-    class teste{
-        static string exibir(){
-            public ue;
         }
     }
 }
