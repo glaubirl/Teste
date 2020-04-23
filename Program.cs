@@ -33,11 +33,15 @@ namespace ExFixacaoAula18
             System.Console.WriteLine($"CONTA: {conta}");
 
             System.Console.WriteLine("Testando o git para realização de versionamentos");
-            System.Console.WriteLine("VS Code é muito bom, pqp");
 
-            for(int i=1; i<=3; i++){System.Console.WriteLine(i);}
+            for(int i=0; i<3; i++){
+                System.Console.WriteLine("Repositório ja esta no GitHub, atualizar");
+            }
 
-            System.Console.WriteLine("Aew, aprendendo coisa pra krai, tem que praticar mesmo");
+            for(int i=0; i<3; i++){
+                System.Console.WriteLine("Atualizaaaaa");
+            }
+
         }
     }
 }
