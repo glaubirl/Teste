@@ -34,6 +34,9 @@ namespace ExFixacaoAula18
 
             System.Console.WriteLine("Testando o git para realização de versionamentos");
             System.Console.WriteLine("VS Code é muito bom, pqp");
+
+            for(int i=1; i<=3; i++){System.Console.WriteLine(i);}
+
         }
     }
 }
