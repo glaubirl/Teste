@@ -37,6 +37,7 @@ namespace ExFixacaoAula18
 
             for(int i=1; i<=3; i++){System.Console.WriteLine(i);}
 
+            System.Console.WriteLine("Aew, aprendendo coisa pra krai, tem que praticar mesmo");
         }
     }
 }
