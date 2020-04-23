@@ -33,7 +33,7 @@ namespace ExFixacaoAula18
             System.Console.WriteLine($"CONTA: {conta}");
 
             System.Console.WriteLine("Testando o git para realização de versionamentos");
-
+            System.Console.WriteLine("VS Code é muito bom, pqp");
         }
     }
 }
